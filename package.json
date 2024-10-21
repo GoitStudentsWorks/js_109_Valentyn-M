@@ -5,7 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"dev": "vite --open",
-		"build": "vite build --base=/project-group-15_Portfolio/",
+		"build": "vite build --base=/js_109_Valentyn-M/",
 		"preview": "vite preview"
 	},
 	"devDependencies": {
